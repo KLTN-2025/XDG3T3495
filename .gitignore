@@ -1,10 +1,27 @@
+# Unreal Engine .gitignore template
+
+# Build and cache folders
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+.vs/
 .vscode/
-.idea/
+
+# Configurations and IDE files
 *.sln
-*.opensdf
 *.suo
-*.user
+*.VC.db
+*.opensdf
+*.opendb
+*.VC.opendb
+
+# OS-specific files
+Thumbs.db
+*.DS_Store
+
+# Logs and backups
+*.log
+*.tmp
+*.bak
+*.backup
