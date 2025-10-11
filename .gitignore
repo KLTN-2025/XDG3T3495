@@ -1,27 +1,79 @@
-# Unreal Engine .gitignore template
+# =====================================
+# Unreal Engine 5 - Full .gitignore
+# =====================================
 
-# Build and cache folders
+# Build and cache folders (auto-generated)
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+
+# IDE folders and files
 .vs/
 .vscode/
-
-# Configurations and IDE files
+*.VC.db
+*.VC.opendb
 *.sln
 *.suo
-*.VC.db
-*.opensdf
-*.opendb
-*.VC.opendb
+*.xcodeproj
+*.xcworkspace
 
-# OS-specific files
+# OS-specific junk
 Thumbs.db
-*.DS_Store
+ehthumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+._*
 
 # Logs and backups
 *.log
 *.tmp
 *.bak
 *.backup
+*.old
+
+# Crash dumps
+*.dmp
+
+# Unreal auto-generated files
+*.opensdf
+*.sdf
+*.opendb
+
+# User-specific config
+*.user
+*.userprefs
+
+# Ignore packaged builds
+*.pak
+*.zip
+*.7z
+*.rar
+
+# Ignore autosaves and backups
+*_BuiltData.uasset
+*_AUTOSAVE.uasset
+*_Backup.uasset
+
+# Ignore local project files
+*.local
+*.vscode
+*.idea
+
+# ======================
+# KEEP THESE IMPORTANT FOLDERS
+# (DO NOT IGNORE)
+# ======================
+
+# Keep Config files
+!Config/
+
+# Keep Source code
+!Source/
+
+# Keep game assets (maps, blueprints, meshes, etc.)
+!Content/
+
+# Keep .uproject
+!*.uproject
