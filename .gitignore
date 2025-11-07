@@ -1,47 +1,38 @@
-# ============================================
-# Unreal Engine 5 - Standard .gitignore
-# ============================================
-
-# Build artifacts
+# Unreal Engine standard ignores
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-
-# Visual Studio files
 .vs/
 *.VC.db
 *.VC.opendb
 *.suo
-*.sdf
-*.opensdf
-*.VC.db-wal
-*.VC.db-shm
-
-# Project files to ignore
-*.sln
 *.user
 *.userprefs
-
-# Backup files
-*_Backup*/
-Backup*/
-
-# Cache
 *.log
 *.tlog
+*.obj
+*.pdb
+*.idb
+*.sln
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
 
-# Ignore autosaves and crash logs
-Saved/Autosaves/
-Saved/Logs/
-Saved/Crashes/
-Saved/Temp/
+# Build files
+Build/
 
-# Ignore Unreal Build Tool intermediate files
-Build/*/Binaries/
-Build/*/Intermediate/
+# Ignore backup files
+*_BuiltData.uasset
 
-# Optional: include source and config
+# Ignore temporary files
+Thumbs.db
+*.bak
+*.tmp
+
+# Keep source and config
 !Config/
 !Source/
-!*.uproject
+!Content/
