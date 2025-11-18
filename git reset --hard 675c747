@@ -1,0 +1,41 @@
+[33mdfd3918[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: revert: Revert "fire puzzle"
+[33m72c9e70[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: commit: checkout
+[33m9e41d69[m HEAD@{2}: commit: fire puzzle
+[33m7ef371e[m HEAD@{3}: reset: moving to 7ef371e2303cf34def9cd7f69b89d241300a3975
+[33m675c747[m HEAD@{4}: reset: moving to 675c747dd1a089ea633cd0f57c4c5ab3d5fe026b
+[33m3eb9287[m HEAD@{5}: revert: Revert "fire puzzle"
+[33m675c747[m HEAD@{6}: commit: fire puzzle
+[33m7ef371e[m HEAD@{7}: commit: fire puzzle
+[33mec1b81f[m HEAD@{8}: reset: moving to ec1b81f7d7f2e179b39f41e75108f444395a9f25
+[33m707ba05[m HEAD@{9}: commit: fire puzzle
+[33mec1b81f[m HEAD@{10}: commit: update earth puzzle
+[33m8544a1d[m HEAD@{11}: commit: update earth puzzle
+[33mf0ebcf8[m HEAD@{12}: commit: earth
+[33m2668bbc[m HEAD@{13}: commit: earth
+[33m548e0e2[m HEAD@{14}: commit: puzzle earth
+[33mfcfd6a8[m HEAD@{15}: commit: rock
+[33m66e6620[m HEAD@{16}: commit: rock
+[33m9c331f3[m HEAD@{17}: commit: abc
+[33mcc66b55[m HEAD@{18}: commit: movement
+[33m5411271[m HEAD@{19}: commit: puzzle water
+[33mc986aee[m HEAD@{20}: commit: puzzle water
+[33m9032178[m HEAD@{21}: commit: puzzle water
+[33mc22bd25[m HEAD@{22}: commit: update
+[33m5b904ac[m HEAD@{23}: commit: map
+[33m639e236[m HEAD@{24}: commit: update
+[33maf13fec[m HEAD@{25}: commit: update map
+[33mf7b90a0[m HEAD@{26}: commit: update map
+[33m948dd6e[m HEAD@{27}: commit: update collision
+[33m60746d5[m HEAD@{28}: commit: update collision
+[33mf822f20[m HEAD@{29}: commit: Fix .gitignore and track all folders
+[33m94c058d[m HEAD@{30}: commit: update
+[33mfd7dab4[m HEAD@{31}: commit: update cube
+[33m7bab370[m HEAD@{32}: commit: Rebuild .gitignore and re-add all project files
+[33mc8258e8[m HEAD@{33}: commit: Blockout Map
+[33m4220cc1[m HEAD@{34}: commit: update loi github
+[33m3cd326a[m HEAD@{35}: commit: update loi github
+[33m5b63018[m HEAD@{36}: commit: cube
+[33m7f216ce[m HEAD@{37}: Branch: renamed refs/heads/main to refs/heads/main
+[33m7f216ce[m HEAD@{39}: commit: test
+[33m3e80a7c[m HEAD@{40}: commit: test
+[33mb970f02[m HEAD@{41}: commit (initial): Initial commit
